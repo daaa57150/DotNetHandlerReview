@@ -1,5 +1,0 @@
-C:\Users\dkern\Documents\Projects\Other\CodeReview\CodeReview\CodeReview\obj\Debug\net7.0\CodeReview.csproj.AssemblyReference.cache
-C:\Users\dkern\Documents\Projects\Other\CodeReview\CodeReview\CodeReview\obj\Debug\net7.0\CodeReview.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dkern\Documents\Projects\Other\CodeReview\CodeReview\CodeReview\obj\Debug\net7.0\CodeReview.AssemblyInfoInputs.cache
-C:\Users\dkern\Documents\Projects\Other\CodeReview\CodeReview\CodeReview\obj\Debug\net7.0\CodeReview.AssemblyInfo.cs
-C:\Users\dkern\Documents\Projects\Other\CodeReview\CodeReview\CodeReview\obj\Debug\net7.0\CodeReview.csproj.CoreCompileInputs.cache
